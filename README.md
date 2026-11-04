@@ -12,3 +12,5 @@ Enter the first number, operator(+ - * /), then second number.
 the program prints Result: followed by the answer displaying the Result of the opporator on the 2 numbers entered
 
 To stop the Program use a keybourd interupt Ctrl + C
+
+to run the tests run ./check.sh all should pass, and the exit status should return 0
