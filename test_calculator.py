@@ -24,3 +24,5 @@ def test_add_negative():
 
 def test_multiply_byZero():
 	assert multiply(7, 0) == 0
+def test_circlearea():
+        assert CircleArea(-4) == "Error"
